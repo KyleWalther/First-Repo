@@ -1,5 +1,5 @@
 function test() {
-const dog = []
+const dog = [i++]
 }
 
 
